@@ -1,4 +1,4 @@
-# Circuit on Sepolia Testnet  🐱
+# Circuit on Sepolia Testnet  
 
 ## Introduction
 
